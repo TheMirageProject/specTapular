@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="870px" height="870px" viewBox="0 0 870 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>SpecTapular-sq-img</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="65.150567%" cy="57.7709951%" fx="65.150567%" fy="57.7709951%" r="155.254973%" id="radialGradient-1">
+            <stop stop-color="#EBC1C1" offset="0%"></stop>
+            <stop stop-color="#7D80CF" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="73.3049818%" x2="100%" y2="73.3049818%" id="linearGradient-2">
+            <stop stop-color="#141414" offset="0%"></stop>
+            <stop stop-color="#545454" offset="50.2779523%"></stop>
+            <stop stop-color="#141414" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="2.01242848%" fx="50%" fy="2.01242848%" r="95.0024766%" gradientTransform="translate(0.500000,0.020124),scale(0.976928,1.000000),rotate(90.000000),translate(-0.500000,-0.020124)" id="radialGradient-3">
+            <stop stop-color="#5A5858" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="32.3711807%" cy="31.0197902%" fx="32.3711807%" fy="31.0197902%" r="114.314431%" gradientTransform="translate(0.323712,0.310198),scale(1.000000,0.726700),rotate(72.430469),translate(-0.323712,-0.310198)" id="radialGradient-4">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#8F8E8E" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="100%" gradientTransform="translate(0.500000,0.500000),scale(0.820896,1.000000),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D4D4D4" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="37.6685049%" x2="100%" y2="87.8413405%" id="linearGradient-6">
+            <stop stop-color="#1D1D1D" offset="0%"></stop>
+            <stop stop-color="#969191" offset="69.6665135%"></stop>
+            <stop stop-color="#191919" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="71.5568296%" x2="111.637931%" y2="78.5124002%" id="linearGradient-7">
+            <stop stop-color="#5E5E5E" offset="0%"></stop>
+            <stop stop-color="#8D8585" offset="61.64088%"></stop>
+            <stop stop-color="#333333" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-33.9160661%" y1="68.2383578%" x2="127.132159%" y2="89.4485294%" id="linearGradient-8">
+            <stop stop-color="#7C7777" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="52.6050506%"></stop>
+            <stop stop-color="#484545" offset="100%"></stop>
+        </linearGradient>
+        <path d="M262,331 C236,361.5 274,417 302,458.5 C318,446.833333 337.885803,436.833333 361.657409,428.5 C382.219136,432.833333 400.5,442.833333 416.5,458.5 C473,391 478.943651,351.656626 460,333 C435.666667,367 402.885803,395 361.657409,417 C325.55247,393.666667 292.333333,365 262,331 Z" id="path-9"></path>
+        <filter x="-3.2%" y="-3.9%" width="106.5%" height="111.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-11" font-family="Helvetica-Light, Helvetica" font-size="100" font-weight="300" fill="#000000">
+            <tspan x="139" y="231">SpecTapular!</tspan>
+        </text>
+        <filter x="-1.7%" y="-8.3%" width="104.7%" height="123.3%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bg" stroke="#979797" fill="url(#radialGradient-1)" x="1.5" y="-0.5" width="869" height="869"></rect>
+        <g id="teddy-drop" transform="translate(436.500000, 660.500000) scale(-1, -1) rotate(-180.000000) translate(-436.500000, -660.500000) translate(91.000000, 359.000000)">
+            <path d="M261.5,341 C195.5,387 51.5,387 29,409.5 C14,424.5 4.33333333,458 -4.54747351e-13,510 L690.5,510 C685.833333,456.333333 676.166667,422.833333 661.5,409.5 C639.5,389.5 538.5,389.5 461,341 C415.118462,312.287037 299.114037,314.784156 261.5,341 Z" id="jacket" stroke="#979797" fill="url(#linearGradient-2)"></path>
+            <path d="M343,254.5 C424.185858,254.5 505.5,292.948821 505.5,190.5 C505.5,88.0511789 502.5,19 419,7 C380.5,18 365,-15.5 295.5,11.5 C249.545767,29.3527235 231.290165,104.35034 241,183 C249.579421,252.493311 261.814142,254.5 343,254.5 Z" id="hair" fill="url(#radialGradient-3)"></path>
+            <path d="M377.5,48 C386,50.5 375.696038,64.8108838 399.5,72 C423.303962,79.1891162 432.637063,66.1771878 447,72 C456.575291,75.8818748 463.575291,88.0485415 468,108.5 C468,120.166667 466.666667,131.166667 464,141.5 C460,157 469.388883,190.425657 475.5,198 C481.611117,205.574343 488.707796,180.349221 496.5,185.5 C504.292204,190.650779 511.76677,192.14401 505,220.5 C498.23323,248.85599 485.721321,248.527454 475.5,273.5 C465.278679,298.472546 465.278679,308 461,328 C456.721321,348 382,419 359,419 C343.666667,419 310.5,388.666667 259.5,328 C250.833333,310.333333 245.166667,293.833333 242.5,278.5 C240.5,275.166667 239.5,253.333333 239.5,213 C239.5,152.5 235.303348,147.068404 239.5,120 C243.696652,92.9315965 259.5,65.5 283.5,57.5 C307.5,49.5 326,63 347,57.5 C368,52 369,45.5 377.5,48 Z" id="face" fill="url(#radialGradient-4)"></path>
+            <ellipse id="spectacle" stroke="#979797" fill="url(#radialGradient-5)" cx="369.5" cy="181.5" rx="33.5" ry="27.5"></ellipse>
+            <ellipse id="spectacle" stroke="#979797" fill="url(#radialGradient-5)" cx="279.5" cy="181.5" rx="33.5" ry="27.5"></ellipse>
+            <path d="M315.5,163 C318.833333,165 318.833333,172.5 315.5,185.5 C310.5,205 296.5,216.646318 296.5,230.5 C296.5,244.353682 303.25,250 315.5,250 C327.75,250 339.5,236 346.5,241 C353.5,246 332.640072,250 338,250 C343.359928,250 360.5,255.539824 360.5,241 C360.5,231.306784 357,220.640117 350,209" id="Path-3" stroke="#4D4C4C"></path>
+            <path d="M320.5,265.5 C320.5,288 350,287 371,298 C392,309 385.751222,329.877253 392,327.5 C398.248778,325.122747 409.210675,316.908241 399.5,294.25 C389.789325,271.591759 376.406411,260.780618 360.5,254 C344.593589,247.219382 320.5,254.733446 320.5,265.5 Z" id="Path-4" stroke="#979797"></path>
+            <path d="M324.929005,257.867768 C332.630235,251.765813 348.785424,249.006287 360.5,254 C376.406411,260.780618 389.789325,271.591759 399.5,294.25 C409.210675,316.908241 398.248778,325.122747 392,327.5 C385.751222,329.877253 392,309 371,298 C354.69616,289.459893 333.268897,288.152853 324.50082,277.466181 C315.523184,287.772936 294.443045,289.156406 278.352901,297.584577 C257.352901,308.584577 263.601679,329.461829 257.352901,327.084577 C251.104123,324.707324 240.142226,316.492817 249.852901,293.834577 C259.563575,271.176336 272.94649,260.365194 288.852901,253.584577 C300.830127,248.4789 317.449323,251.478029 324.929005,257.867768 Z" id="mustache" fill="#292929"></path>
+            <polygon id="shirt-back-panel" fill="#F3F3F3" points="301 451 359.5 422 419 444 402 511 328.5 511"></polygon>
+            <g id="tie" transform="translate(321.000000, 425.000000)">
+                <polygon id="Path-5" fill="url(#linearGradient-6)" points="0 18.5 41 0.5 83 18.5 60.5 54 26 54"></polygon>
+                <polygon id="Path-5" fill="url(#linearGradient-7)" transform="translate(43.750000, 116.000000) scale(1, -1) translate(-43.750000, -116.000000) " points="7.5 147 43.75 54 80 147 60.5 178 26 178"></polygon>
+            </g>
+            <g id="collar">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <path d="M403.5,184 C418.5,337.666667 444.166667,419.666667 480.5,430" id="Path-2" stroke="#313131" stroke-width="2"></path>
+            <path d="M313.5,179.5 C317.833333,176.5 321.666667,175 325,175 C328.333333,175 332,176.5 336,179.5" id="Path-7" stroke="#979797"></path>
+        </g>
+        <g id="SpecTapular!" fill="#000000" fill-opacity="1">
+            <use filter="url(#filter-12)" xlink:href="#text-11"></use>
+            <use xlink:href="#text-11"></use>
+        </g>
+    </g>
+</svg>
