@@ -1,4 +1,4 @@
-[![SpecTapular Logo](./SpecTapular-Logo.svg?sanitize=true)](https://spectapularjs.com)
+[![SpecTapular Logo](./SpecTapular-Logo.svg?sanitize=true)](http://spectapularjs.com)
 
 1st Class Async, Declarative Test(s) Runner for Artristocrats
 
