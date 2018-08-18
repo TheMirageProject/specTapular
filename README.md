@@ -1,11 +1,10 @@
 [![SpecTapular Logo](./SpecTapular-Logo.svg?sanitize=true)](https://spectapularjs.com)
 
-<!-- BIG LOGO^  -->
 1st Class Async, Declarative Test(s) Runner for Artristocrats
 
 > Tests dripping in sweet, sweet sophistication
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
 
 SpecTapular is the eldest grandchild child of:
 
@@ -14,18 +13,17 @@ SpecTapular is the eldest grandchild child of:
 3. 💘 of Progress
 4. Spec-style outputs from [mochajs](https://mochajs.org#spec) and the [TAP](http://testanything.org) standards for testing output.
 
-<!-- Are love chidren from 3 things the result of a Ménage à trois?? 
-If so I can't figure out how to write tests for that.. Err, at least I have not figured out how to get my boss to approve writing those tests -->
+<!-- Are the brain-childs from a list of 3 things the result of a Ménage à trois?? If so I can't figure out how to write tests for that..  -->
 
 Spectapular is an opinionated <!--and cheeky--> test runner/framework dripping in class and rugged individualism. Put on your spectacles (no, not your monicle, you guilded railroad barron) and let's make ourselves some useful tests.
 
 <!-- Chin up! Can't you feel the progress, my good chap -->
 
-<!-- Animated gif  exmaple  -->
+<!-- INSERT Animated gif of Exmaple HERE  -->
 
 ### TL DR;
 
-Installation : `npm i spectapular -D`
+Installation : `npm i spectapular -D` or `npm i spectapular -g`
 
 Typical Usage : `npx spectapular -v -p "./tests/**/*.tests.js" `
 
@@ -60,7 +58,7 @@ Typical Usage : `npx spectapular -v -p "./tests/**/*.tests.js" `
 
 ### Wait Why? Yeah But Why?
 
-In a world with [AVA](https://github.com/avajs/ava), [Mocha](https://github.com/mochajs/mocha), [Jasmine](https://github.com/jasmine/jasmine), [Jest](https://github.com/facebook/jest), [tape](https://github.com/substack/tape), [tap](https://github.com/tapjs/node-tap), [scripts](https://github.com/qunitjs/qunit), [scraps](https://github.com/hapijs/lab), and [give a dog a bone](https://github.com/search?q=test+runner) - why on earth make another test runner?
+In a world with [AVA](//github.com/avajs/ava), [Mocha](//github.com/mochajs/mocha), [Jasmine](//github.com/jasmine/jasmine), [Jest](//github.com/facebook/jest), [tape](//github.com/substack/tape), [tap](//github.com/tapjs/node-tap), [scripts](//github.com/qunitjs/qunit), [scraps](//github.com/hapijs/lab), and [give a dog a bone](//github.com/search?q=test+runner) - why on earth make another test runner?
 
 Some reasons in no particular order:
 
@@ -82,16 +80,19 @@ Spectapular is a nodejs testing framework that aims to be:
 2. Pretty Fast
 3. Maybe even just a little bit fun
 
-Useful tests are good! 
+Since useful tests are good, anything that encourages me and other people to write useful tests - is also good.
 
-Tests are the way that we codify the hard lessons fought and won in production about race conditions, and other logical errors that occur create fire-drills in production.
+I have a confession, while the websites are well structured, and well meaning, and even tout working software - I have struggled to get excited to write tests using the "nastiness of functions such as `describe/beforeEach/beforeAll/afterEach/afterAll/test/it/assert/expect/...` with the mantra of "less can be more" spectapular embraces an incredibly simplistic model for test suites.
 
-Spectapular follows in the footsteps of `testmatrix` and `tead` that strip down testing frameworks to be stupidly simple. And thats when I realized that I do actually enjoy writing tests.
-
+[Spectapular](//github.com/TheMirageProject/spectapular) follows in the footsteps of [`testmatrix`](//github.com/jorgebucaran/testmatrix) and [`tead`](//github.com/teadjs/tead) that strip down testing frameworks to be stupidly simple. When you can just say this is what Im expecting and did you calculate the same thing, I realized I actually enjoy writing tests. Really, its kindof fun!
 
 #### Do I Really Need this? 
 
-coming soon...
+Do you need tests? No, not like you need water or food. But tests, like the idea of a sandwhich, are a really good idea.
+
+When you are embarassed at a production fire-drill over an error that should have never been, you grow up a little, face the music, and you need to do more tests. But if you are anything like me, the day that happens, is the day think: maybe I could schedule a dentist appointment today, or maybe I could do community service. 
+
+Somehow writing tests always felt like nails on a chalk board. But writing incredibly simple, but powerful and fast tests are really nice when they help you not repeate mistakes.
 
 ### Installation
 
@@ -109,9 +110,9 @@ Or if you prefer using Yarn:
 
 ### Writing Tests
 
-SpecTapular is heavily inspired by [`testmatrix`](https://github.com/jorgebucaran/testmatrix) and [`tead`](https://github.com/teadjs/tead). For me the ideas there are the logical conclusion to what AVA started in my brain.
+SpecTapular is heavily inspired by [`testmatrix`](//github.com/jorgebucaran/testmatrix) and [`tead`](//github.com/teadjs/tead). For me the ideas there are the logical conclusion to what [AVA](//github.com/avajs/ava) started in my brain.
 
-Tests in Spectapular follow the protocol laid out by `testmatrix`. Where if you have ever written "fixtures" for your tests - you would now be about 95% done.
+Tests in Spectapular follow the format laid out by `testmatrix`. If you have ever written "fixtures" for your tests - you would now be about 95% done.
 
 So what do tests look like now?
 
@@ -134,14 +135,14 @@ Lifted from the `testmatrix` documentation:
 	  ]
 	}
 
-1. Each test file exports a test suite object to `exports.default`
-2. The keys of that test suite object are the name of a test group
-3. The the test group has an array of tests
+1. Each test file exports a `test suite` object to `exports.default`
+2. The keys of that test suite object are the name of a `test group`
+3. The the `test group` has an array of `tests`
 4. The each test in that array is an object that includes:
-	1. name: "The Description of the Test"
-	2. 	assert: The function that will be used to evaluate if actual and expected are the same.
-	3. actual: Excercise your code base here
-	4. 	expected: plop down what your test case should evaluate to
+	1. `name` : "The Description of the Test"
+	2. `assert` : The function that will be used to evaluate if actual and expected are the same.
+	3. `actual` : Excercise your code base here
+	4. `expected` : plop down what your test case should evaluate to
 	
 #### Using a TestGen Function (or Higher-Order-Test-Functions)
 <!-- Hardly resisting the urge to call them HOTs -->
@@ -254,7 +255,6 @@ EXAMPLES
 ### Debugging
 
 1. Sometimes your glob pattern is not right... add the `-d` flag and re-run
-2. 
 
 ### Configuration
 
@@ -273,7 +273,7 @@ Highest Precedance:
 
 ### API
 
-Right now the API assumes you are messing with the source code of SpecTapular. This is getting re-thought so that you can extend SpecTapular without changing its own source code.
+Right now spectapular has not exported anything so that users can extend it. This will change pre-npm publishing.
 
 ### Inspiration
 
@@ -341,4 +341,4 @@ or still you could use a Higher Order Test
 ### Team
 
 #### License
-Spectapular is MIT licensed. See LICENSE.
+`SpecTapular` is MIT licensed. See LICENSE.
