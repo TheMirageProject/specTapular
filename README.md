@@ -1,5 +1,5 @@
 <!-- BIG LOGO -->
-[![SpecTapular Logo](images/SpecTapularLogo.svg)](https://spectapularjs.com)
+[![SpecTapular Logo](SpecTapularLogo.svg)](https://spectapularjs.com)
 
 1st Class Async, Declarative Test(s) Runner for Artristocrats
 
