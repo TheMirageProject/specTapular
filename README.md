@@ -1,8 +1,6 @@
 <!-- BIG LOGO -->
 [![SpecTapular Logo](images/SpecTapularLogo.svg)](https://spectapularjs.com)
 
-# SpecTapular 👓⚡️💦🎩
-==================
 1st Class Async, Declarative Test(s) Runner for Artristocrats
 
 > Tests dripping in sweet, sweet sophistication
@@ -43,7 +41,7 @@ Typical Usage : `npx spectapular -v -p "./tests/**/*.tests.js" `
 	- [Debugging](#debugging)
 - [The Tests](#)
 	- [Writing Tests](#writing)
-	- [CLI](#api)
+	- [CLI](#cli)
 	- [Using Higher Order Tests](#HOTs)
 	- [Assertions](#assertions)
 	- [API](#api)
