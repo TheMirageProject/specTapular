@@ -5,21 +5,21 @@
 
 > Tests dripping in sweet, sweet sophistication
 
-<!-- All the Badges goes here -->
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
 
 SpecTapular is the eldest grandchild child of:
 
 1. Impatience²
 2. Declarative Testing
 3. 💘 of Progress
-4. Spec-style outputs from [mochajs.org#spec](https://mochajs.org#spec) and the [TAP standards](http://testanything.org) for testing output.
+4. Spec-style outputs from [mochajs](https://mochajs.org#spec) and the [TAP](http://testanything.org) standards for testing output.
 
 <!-- Are love chidren from 3 things the result of a Ménage à trois?? 
 If so I can't figure out how to write tests for that.. Err, at least I have not figured out how to get my boss to approve writing those tests -->
 
-Spectapular is an opinionated <!--and cheeky--> test runner/framework that is dripping in class and rugged individualism. Put on your spectacle (no, not your monicle, you guilded railroad barron) and now let's write some useful tests.
+Spectapular is an opinionated <!--and cheeky--> test runner/framework dripping in class and rugged individualism. Put on your spectacles (no, not your monicle, you guilded railroad barron) and let's make ourselves some useful tests.
 
-C'mon, chin up, and can't you feel the progress, my good chap.
+<!-- Chin up! Can't you feel the progress, my good chap -->
 
 <!-- Animated gif  exmaple  -->
 
