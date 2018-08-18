@@ -121,13 +121,13 @@ Lifted from the `testmatrix` documentation:
 	exports.default = {
 	  "array.indexOf()": [
 	    {
-	      test: "returns the index at which a given element is in the array",
+	      name: "returns the index at which a given element is in the array",
 	      assert: (a, b) => a === b,
 	      actual: ["A", "B", "C"].indexOf("A"),
 	      expected: 0
 	    },
 	    {
-	      test: "returns the index at which a given element is in the array",
+	      name: "returns the index at which a given element is in the array",
 	      assert: (a, b) => a === b,
 	      actual: ["A", "B", "C"].indexOf("C"),
 	      expected: 2
