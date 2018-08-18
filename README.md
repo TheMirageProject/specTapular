@@ -1,6 +1,5 @@
-[![SpecTapular Logo](https://raw.githubusercontent.com/TheMirageProject/spectapular/c0af26c142cb8cd6fbab280f068df75857350f9c/SpecTapular-Logo.svg)](https://spectapularjs.com)
+[![SpecTapular Logo](./SpecTapular-Logo.svg?sanitize=true)](https://spectapularjs.com)
 
-![SpecTapular Logo Relative Ref](SpecTapular-Logo.svg?raw=true "Title")
 <!-- BIG LOGO^  -->
 1st Class Async, Declarative Test(s) Runner for Artristocrats
 
