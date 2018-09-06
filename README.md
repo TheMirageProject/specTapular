@@ -15,18 +15,17 @@ SpecTapular is the eldest grandchild child of:
 
 <!-- Are the brain-childs from a list of 3 things the result of a Ménage à trois?? If so I can't figure out how to write tests for that..  -->
 
-Spectapular is an opinionated <!--and cheeky--> test runner/framework dripping in class and rugged individualism. Put on your spectacles (no, not your monicle, you guilded railroad barron) and let's make ourselves some useful tests.
+Spectapular is an opinionated <!--and cheeky--> test runner/framework dripping in class and rugged individualism. Put on your spectacles (no, not your monicle, you gilded robber barron) and let's make ourselves some useful tests.
 
-<!-- Chin up! Can't you feel the progress, my good chap -->
+<!-- Chin up! My good chap, Soon you too will feel the progress! -->
 
-<!-- INSERT Animated gif of Exmaple HERE  -->
+<!-- INSERT Animated gif of Exmaple HERE ASCII Cinema Video? -->
 
 ### TL DR;
 
 Installation : `npm i spectapular -D` or `npm i spectapular -g`
 
 Typical Usage : `npx spectapular -v -p "./tests/**/*.tests.js" `
-
 
 ## Contents
 
