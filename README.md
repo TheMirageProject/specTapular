@@ -6,16 +6,16 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
 
-SpecTapular is the eldest grandchild child of:
+SpecTapular is the eldest grand-love-child of:
 
 1. Impatience²
 2. Declarative Testing
 3. 💘 of Progress
-4. Spec-style outputs from [mochajs](https://mochajs.org#spec) and the [TAP](http://testanything.org) standards for testing output.
+4. Spec-style outputs from [mochajs](https://mochajs.org#spec) and the [TAP](http://testanything.org) testing output standards.
 
-<!-- Are the brain-childs from a list of 3 things the result of a Ménage à trois?? If so I can't figure out how to write tests for that..  -->
+<!-- Are the brain-children from a list of 3 things, the result of a Ménage à trois?? If so I can't figure out how to write tests for that..  -->
 
-Spectapular is an opinionated <!--and cheeky--> test runner/framework dripping in class and rugged individualism. Put on your spectacles (no, not your monicle, you gilded robber barron) and let's make ourselves some useful tests.
+Spectapular is an opinionated <!--and even cheeky--> test runner/framework dripping in class and rugged individualism. Put on your spectacles (no, not your monicle, you gilded robber barron) and let's make ourselves some useful tests.
 
 <!-- Chin up! My good chap, Soon you too will feel the progress! -->
 
