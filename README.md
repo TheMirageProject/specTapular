@@ -115,7 +115,7 @@ Spectapular assumes your tests are formated in one of those two(`testmatrix` or 
 
 So what do tests look like now?
 
-PLainly lifted from the `testmatrix` documentation:
+Plainly lifted from the `testmatrix` documentation:
 
 	exports.default = {
 	  "array.indexOf()": [
