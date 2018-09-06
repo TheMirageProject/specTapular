@@ -102,21 +102,21 @@ Reuirements:
 
 Initialization works with npm and Yarn, but running npx requires npm@5.2.0 or greater to be installed. Otherwise, you'll have to manually install ava and configure the test script in your package.json as per above:
 
-	$ npm install --save-dev --save-exact ava@next
+	$ npm i @mirageproject/spectapular -S
 
-Or if you prefer using Yarn:
+Or with Yarn:
 
-	$ yarn add ava@next --dev --exact
+	$ yarn add @mirageproject/spectapular --dev
 
 ### Writing Tests
 
 SpecTapular is heavily inspired by [`testmatrix`](//github.com/jorgebucaran/testmatrix) and [`tead`](//github.com/teadjs/tead). For me the ideas there are the logical conclusion to what [AVA](//github.com/avajs/ava) started in my brain.
 
-Tests in Spectapular follow the format laid out by `testmatrix`. If you have ever written "fixtures" for your tests - you would now be about 95% done.
+Spectapular assumes your tests are formated in one of those two(`testmatrix` or `tead`). And, if you have ever written tests "fixtures" you would now be about 95% done with `SpecTapular`
 
 So what do tests look like now?
 
-Lifted from the `testmatrix` documentation:
+PLainly lifted from the `testmatrix` documentation:
 
 	exports.default = {
 	  "array.indexOf()": [
@@ -145,7 +145,7 @@ Lifted from the `testmatrix` documentation:
 	4. `expected` : plop down what your test case should evaluate to
 	
 #### Using a TestGen Function (or Higher-Order-Test-Functions)
-<!-- Hardly resisting the urge to call them HOTs -->
+<!-- Barely resisting the urge to call them HOTs -->
 Sometimes its nice to clean up your test groups, especially if you want some short hand to always use a certain assert, or you want a short, easy typable way to give inputs that are then passed into your `actual` function/value.
 
 Consider the example `Slow Double Test` generator
