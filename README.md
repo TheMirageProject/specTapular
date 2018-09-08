@@ -1,5 +1,6 @@
 [![SpecTapular Logo](./SpecTapular-Logo.svg?sanitize=true)](http://spectapularjs.com)
 
+# 👓⚡️ specTapular 🚰🎩️️️️️️
 1st Class Async, Declarative Test(s) Runner for Artristocrats
 
 > Tests dripping in sweet, sweet sophistication
